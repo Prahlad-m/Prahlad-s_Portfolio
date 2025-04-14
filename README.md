@@ -5,7 +5,7 @@
 Details
 
 # Project 2: ---------------- (Tableau)
-Details
+**Tableau Public Profile:** https://public.tableau.com/app/profile/prahlad.mistry/vizzes
 
 # Project 3: ---------------- (Power BI)
 Details
